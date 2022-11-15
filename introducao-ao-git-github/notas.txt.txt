@@ -1,0 +1,18 @@
+Comandos Git
+ls - listar  pasta
+cd - entrar em pasta 
+cd / - entra no diretorio C
+cd ../localdesejada - voltar pasta
+cd + iniciais da pasta + TAB - o promp vai completar
+e te lavar para lá 
+dir - lista todos os programas e arquivos da pasta
+mkdir - criar pasta
+rmdir + pasta /S /Q - para excluir toda a pasta 
+ctrl + l - limpar terminal
+echo -  printa devolta e você pode criar um arquivo.
+git config -- list - para mostrar configuração
+git remote add origin - adicionar repositorio remoto
+git  remote -v - ver repositorios remotos 
+git push origin master - para emprurar 
+determinado arquiuvo para o repositorio remoto 
+git add . - adiciona arquivo nao comitados

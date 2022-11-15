@@ -3,4 +3,4 @@ Primeito desafio concluído com sucesso, amémmm!!
 Primeiro projeto DIO
 
 Links uteis
-[sintaxe Markdown}(https://www.markdownguide.org/basic-syntax/)
+[sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
